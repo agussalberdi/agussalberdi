@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Agustin 👋
 
 <!--
 **agussalberdi/agussalberdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Front-end Engineer with a flair for Angular and NgRx. Crafting captivating designs and elevating user experiences, one line of code at a time. 🎨✨
