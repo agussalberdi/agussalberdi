@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 Front-end Engineer with a flair for Angular and NgRx. Crafting captivating designs and elevating user experiences, one line of code at a time. 🎨✨
 
 - 🔭 My Portfolio: https://agustinalberdi-portfolio.netlify.app/
-- 🌱 I’m currently learning the latest features released on Angular v17 like it's new built-in control flow, Standalone API and Deferrable Views. Beyond the frontend frontier, I'm navigating the fascinating landscape of Blockchain and Web3, driven by a curiosity to understand the decentralized future.
+- 🌱 I'm currently diving into the latest Angular features (v17+), including Signals, the new built-in control flow, Standalone APIs, and Deferrable Views.
+- ⚡ I'm also curious about learning Next.js for SSR and performance, and getting into GSAP to bring slick animations to my projects.
+- 🌐 Outside the usual front-end grind, I'm exploring the world of Blockchain and Web3, driven by curiosity about the decentralized future.
 - 👯 I’m looking to collaborate on open-source projects that involve Angular or React
 - 📫 How to reach me: https://www.linkedin.com/in/agustinalberdi
 
